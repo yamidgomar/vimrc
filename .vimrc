@@ -1,7 +1,8 @@
-filetype plugin on
-set omnifunc=syntaxcomplete#Complete
-set nocompatible              " be iMproved, required
-"filetype off                  " required
+complemento de tipo de archivo en
+d
+set omnifunc = syntaxcomplete # esdeComplete 
+set nocompatible "ser mejorado, obligatorioe
+"tipo de archivo desactivado" obligatoriolrepo
  
  
 " set the runtime path to include Vundle and initialize
